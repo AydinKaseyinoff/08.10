@@ -1,0 +1,22 @@
+nav ul li{
+  display: inline;
+}
+nav ul {
+  background-color: #000000;
+  text-align: center;
+}
+nav ul li a{
+  color: #ffffff;
+  text-decoration: none;
+  font-family: sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700px;
+  text-transform: uppercase;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+body{
+  background-color: #000000;
+}
